@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Eda</h1>
-<h3 align="center">Backend & Data-oriented developer in progress 🚀</h3>
+<h3 align="center">Backend & Data-Oriented Developer</h3>
 
 <p align="center">
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="34"/>
+
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="34"/>
 </p>
