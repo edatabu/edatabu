@@ -7,12 +7,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="34"/>
 </p>
-
-
-
-
-<p align="center">
-  <a href=www.linkedin.com/in/edanur-tabu-5b7032359" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="28"/>
-  </a>
-</p>
