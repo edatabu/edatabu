@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eda</h1>
-<h3 align="center">Learning backend development and building projects step by step 🚀</h3>
-
-
-<br/>
-
 <h3 align="center">Backend & Data-oriented developer in progress 🚀</h3>
 
 <p align="center">
